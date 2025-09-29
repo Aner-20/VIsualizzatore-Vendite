@@ -1,0 +1,15 @@
+Applicazione che consente di caricare un file CSV con dati di vendite
+e visualizzarli in modo interattivo
+
+Caratteristiche
+
+1. Filtraggio per categoria di prodotto
+2. Possibilità di scegliere tra diversi tipi di grafici (linea, barre, istogramma)
+3. Calcolo automatico del totale vendite giornaliero.
+
+Tecnologie usate
+
+- Python 3.10
+- PyQt5
+- Pandas
+- Matplotlib
